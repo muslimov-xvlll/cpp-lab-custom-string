@@ -32,14 +32,6 @@ The project demonstrates understanding of low‑level memory handling, RAII, exc
 
 ---
 
-## 🚀 How to Run
-Compile with any C++17+ compiler:
-
-g++ main.cpp  -o string_lab
-./string_lab
-
----
-
 ## 📫 Contact
 **Email:** muslimov.ramis13@gmail.com  
 **Telegram:** https://t.me/muslimov_xvll
